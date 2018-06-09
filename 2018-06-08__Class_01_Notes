@@ -1,0 +1,63 @@
+W5H - Project Charters
+
+Why
+When
+What
+Where
+Who
+How
+
+BIG Design Upfront vs. Enough Design Upfront
+
+Architecture
+Infrastructure
+DB Model
+Interfaces
+UX
+Design
+
+
+MVP = Minimal Viable Product
+
+UserStores
+Acceptance Criteria
+Release Planning
+Iteration Planning
+Daily
+Prioritization
+Estimation
+Reviews
+Retros
+Grooming
+
+Agile Development Methodology is an iterative, incremental, and flexible approach to software development with a "potentially shippable product" developed every sprint/iteration.
+
+
+Iterative vs. Incremental
+
+Iterative
+Incremental
+Iterative and Incremental
+
+EXAMPLE: Studying for a final exam
+Iterative: study a bit of each of 6 chapters on day 1; study more of each on successive days until complete
+Inremental: read 50% of chapter 1 on day 1; finish chapter 1 on day 2; continue until complete
+
+EXAMPLE: Credit Card Functionality and Debit Card Functionality
+
+
+IRON: can't change
+Waterfall: Scope is fixed, Cost and Schedules are variable
+Agile: Cost and Schedules are fixed, Scope is variable
+
+
+What is a "Potentially Shippable Product"
+
+Focus on:
+Coding
+Unit Testing
+Coding Standards
+Automated Testing
+NO Residual Effects
+Integration
+
